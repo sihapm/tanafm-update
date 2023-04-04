@@ -1,0 +1,17 @@
+.popup {
+  width: fit-content;
+  background-color: rgba(0, 128, 0);
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  position: fixed;
+  right: 2rem;
+  top: 1rem;
+  z-index: 100000000;
+}
+.popop h2 {
+  text-align: center;
+}
